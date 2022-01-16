@@ -1,2 +1,2 @@
 # Basic Next JS Project 
-### jamalludin
+## add get static patch

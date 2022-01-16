@@ -14,7 +14,7 @@ export default function User(props: dataUsers) {
                 return (
                     <>
                         <p>{user.name}</p>
-                        <p>{user.email}</p>
+                        <p>{user.username}</p>
                     </>
                 )
             })}
